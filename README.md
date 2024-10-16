@@ -188,5 +188,5 @@ npm uninstall react-navigation
 In the terminal, use the following command:
 
 ```bash
-git clone https://github.com/afsify/react-native.git
+git clone https://github.com/afsify/reactnative.git
 ```
